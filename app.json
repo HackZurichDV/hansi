@@ -1,5 +1,13 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "sdkVersion": "27.0.0",
+	"name": "HANSI",
+    "icon": "./src/images/app-icon.png",
+    "version": "1.0.0",
+    "slug": "hansi-food-footprint",
+    "sdkVersion": "24.0.0",
+    "ios": {
+      "bundleIdentifier": "io.bcgdv.hansi"
+    },
   }
 }
