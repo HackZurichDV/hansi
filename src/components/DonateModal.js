@@ -3,7 +3,6 @@ import {Modal, Text, TouchableOpacity, View, Alert, FlatList, StyleSheet, ImageB
 import Progress from './Progress';
 
 export default class DonateModal extends React.Component {
-
 constructor(props) {
     super(props);
 
